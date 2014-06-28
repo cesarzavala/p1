@@ -3,9 +3,11 @@
 <head>
 	<title>About Cesar Zavala</title>
 	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 	<h1>Cesar Zavala</h1>
+	<img class="profile-picture" src="images/Cesar.jpg">
 	<h2>In 2+ sentences describe who you are and what you do.</h2>
 	<p>I'm originally from Mexico, happily living in Georgia now. 
 	Having a great time in Summer school! Love playing soccer. Have 4 repos, err, I mean 4 children, so I'm totally rich but have no money :)</p>
