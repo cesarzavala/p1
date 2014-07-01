@@ -55,6 +55,6 @@
 		<h2 id="Platform">Are you working on a Mac, PC, or some other platform?</h2>
 		<p>Mac. I've been using it since the beginning of this year, I do have a Windows VM just in case.</p>
 		<h2 id="AnythingElse">Anything else we should know?</h2>
-		<p>I'm just grateful to be around these great people. Where do we sign for Susan's fan club? The whole instruction team is so talented!</p>		
+		<p>I'm just grateful to be around these great people. Where do we sign for Susan's fan club? Admire her work for #WeAreWCC. The whole instruction team is so talented!</p>		
 </body>
 </html>
