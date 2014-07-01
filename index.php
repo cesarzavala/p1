@@ -32,7 +32,7 @@
 				<div class="col-sm-4">
 					<img class="profile-picture img-responsive" alt="Cesar's picture" src="images/Cesar.jpg">
 				</div>
-				<div class="col-sm-8">
+				<div class="col-sm-8 hidden-xs">
 					<div id="accordion">
 						<?php include 'content.html' ?>
 					</div>
