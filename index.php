@@ -15,6 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- End of Bootstrap additions -->
 	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="icon" type="image/ico" href="images/favicon.ico"
 </head>
 <body class="container-fluid">
 		<header class="jumbotron">
