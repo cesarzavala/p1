@@ -11,3 +11,4 @@ No login required.
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
+* jQueryUI (accordion): http://jqueryui.com/accordion/

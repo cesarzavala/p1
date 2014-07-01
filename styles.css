@@ -1,9 +1,31 @@
 .profile-picture {
 	width: 300px;
 	height: 300px;
+	border: 1px solid black;
 }
 
 ul {
 	list-style: none;
 	padding: 0;
 }
+
+.jumbotron {
+	background-color: #9FB3CB;
+	padding-top: 10px;
+}
+
+.accordion {
+	background-color: black;
+}
+
+header h2 {
+	font-size: 12pt;
+	color: white;
+	background-color: black;
+	margin: 5px;
+}
+
+header div.container {
+	background-color: white;
+}
+
